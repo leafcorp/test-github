@@ -1,0 +1,138 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <!-- generator meta tag -->
+    <!-- leave this for stats and Silex version check -->
+    <meta name="generator" content="Silex v2.2.9">
+    <!-- End of generator meta tag -->
+    <script type="text/javascript" src="https://editor.silex.me/static/2.9/jquery.js" data-silex-static=""></script>
+    <script type="text/javascript" src="https://editor.silex.me/static/2.9/jquery-ui.js" data-silex-static=""></script>
+    <script type="text/javascript" src="https://editor.silex.me/static/2.9/pageable.js" data-silex-static=""></script>
+    <script type="text/javascript" src="https://editor.silex.me/static/2.9/front-end.js" data-silex-static=""></script>
+    <link rel="stylesheet" href="https://editor.silex.me/static/2.9/normalize.css" data-silex-static="">
+    <link rel="stylesheet" href="https://editor.silex.me/static/2.9/front-end.css" data-silex-static="">
+
+    <style type="text/css" class="silex-style"></style>
+    <script type="text/javascript" class="silex-script"></script>
+    <style class="silex-inline-styles" type="text/css">.body-initial {background-color: rgba(255,255,255,1);}.silex-id-1564145506329-12 {min-width: 654px; left: 5px; background-color: rgba(192,192,192,1); top: 5px;}.silex-id-1564145506329-11 {width: 654px; min-height: 227px; background-color: transparent; top: 15px; left: 870px;}.silex-id-1564139226016-1 {min-height: 27px; width: 33px; background-color: transparent; top: 29px; left: 6px;}.silex-id-1564139386575-5 {width: 175px; min-height: 55px; top: 36px; left: 378px; background-color: transparent;}.silex-id-1564145483456-10 {width: 2136px; min-height: 20px; background-color: rgb(255, 255, 255); top: -29px; left: -32px;}.silex-id-1564145708211-13 {width: 100px; min-height: 100px; top: 340px; left: 904px;}.silex-id-1564148658551-0 {width: 2178px; height: 490px; background-color: transparent; top: 278px; left: 251px;}</style>
+    <title>LEAF</title>
+    <script type="text/json" class="silex-json-styles">[{"fonts":[{"family":"'Roboto', sans-serif","href":"https://fonts.googleapis.com/css?family=Roboto"}],"desktop":{"body-initial":{"background-color":"rgba(255,255,255,1)"},"silex-id-1474394621032-2":{"min-height":"537px","background-color":"transparent","width":"1200px","top":"","left":"","height":""},"silex-id-1474394605264-1":{"min-height":"100px","width":"100px","top":"100px","left":"100px"},"silex-id-1474394605263-0":{"min-height":"100px","background-color":"transparent"},"silex-id-1478366444112-0":{"min-height":"56px","background-color":"transparent","width":"547px","top":"15px","left":"770px","height":""},"silex-id-1478366450713-2":{"min-height":"20px","background-color":"transparent","width":"1200px","top":"","left":"","height":""},"silex-id-1564139226016-1":{"min-height":"27px","width":"33px","background-color":"transparent","top":"29px","left":"6px","opacity":""},"silex-id-1564139386575-5":{"width":"175px","min-height":"55px","top":"36px","left":"378px","background-color":"transparent"},"silex-id-1564145107338-6":{"width":"100px","min-height":"100px","top":"170px","left":"448px"},"silex-id-1564145142892-7":{"width":"","min-height":"100px","background-color":""},"silex-id-1564145483456-10":{"width":"2136px","min-height":"20px","background-color":"rgb(255, 255, 255)","top":"-29px","left":"-32px"},"silex-id-1564145506329-11":{"width":"654px","min-height":"227px","background-color":"transparent","top":"15px","left":"870px"},"silex-id-1564145506329-12":{"min-width":"654px","left":"5px","background-color":"rgba(192,192,192,1)","top":"5px"},"silex-id-1564145708211-13":{"width":"100px","min-height":"100px","top":"340px","left":"904px"},"silex-id-1564148658551-0":{"width":"2178px","height":"490px","background-color":"transparent","top":"278px","left":"251px","border-style":"","border-width":"","border-radius":""}},"mobile":{},"prodotypeData":{"component":{"silex-id-1564139226016-1":{"name":"hamburger1","templateName":"hamburger","button-border-color":"#ffffff","background-color":"#c0c0c0","button-background-color":"#000000","fixed":true,"links":[{"text":"CONTACT","properties":{"href":"#!page-contact"}},{"properties":{"href":"#!page-home"},"text":"HOME"},{"text":"LEAF-A 3D PRINTER","properties":{"href":"https://www.leafcorp.eu/index.html","title":"LEAF-A"}}]},"silex-id-1564148658551-0":{"name":"form1","templateName":"form","sendTo":"leaf3d@mail.com","submitButtonLabel":"SEND","buttonTextColor":"#808080","buttonBackgroundColor":"#c0c0c0","buttonBorderColor":"#ffffff","labelTextColor":"#000000","field1":true,"field2":true,"field3":true,"placeholder3":"Ask a question about the realization of a 3d model o upload a model a picture or just a sketch and we will contact you as soon as possible and let you know price and time of realization."}},"style":{"all-style":{"className":"all-style","templateName":"text","displayName":"All style","styles":{"desktop":{"normal":{"className":"all-style","pseudoClass":"normal","All":{"font-family":"'Roboto', sans-serif"}}}}},"text-style-1":{"className":"text-style-1","templateName":"text","displayName":"Text Style 1","styles":{"desktop":{"normal":{"templateName":"text","className":"text-style-1","pseudoClass":"normal","All":{"column-gap":"3px","font-family":"'Roboto', sans-serif","font-weight":"bold","font-style":"normal","color":"","font-size":"16px","word-spacing":"1px","line-height":"3","background-color":"","text-decoration":"none","text-transform":"none","column-rule-style":"solid","column-rule-color":"#80ff00","column-rule-width":"9px","text-align":"justify","columns":"-6"},"Link":{"text-transform":"none","text-decoration":"none","font-size":""},"Italic":{"text-decoration":"none","text-transform":"none"},"Underline":{"text-decoration":"none","text-transform":"none"},"Bold":{"text-decoration":"none","text-transform":"none"},"Heading3":{"text-decoration":"none","text-transform":"none"},"Heading2":{"text-decoration":"none","text-transform":"none"},"Heading1":{"text-decoration":"none","text-transform":"none"},"OrderedList":{"text-decoration":"none","text-transform":"none"},"UnorderedList":{"text-decoration":"none","text-transform":"none"},"Active":{"text-decoration":"none","text-transform":"none"},"Paragraph":{"text-decoration":"none","text-transform":"none"}}}}},"text-style-2":{"className":"text-style-2","templateName":"text","displayName":"Text Style 2","styles":{"desktop":{"normal":{"templateName":"text","className":"text-style-3","pseudoClass":"normal","All":{"column-gap":"3px"}}}}},"text-style-3":{"className":"text-style-3","templateName":"text","displayName":"Text Style 3","styles":{"desktop":{"normal":{"templateName":"text","className":"text-style-3","pseudoClass":"normal","All":{"column-gap":"3px"}}}}}}}}]</script>
+
+    
+<style class="silex-prodotype-style" type="text/css" data-style-id="all-style">.text-element > .silex-element-content {font-family: 'Roboto', sans-serif;}</style><link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" class="silex-custom-font"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="hostingProvider" content="ghpages"><style class="silex-prodotype-style" type="text/css" data-style-id="text-style-1">.text-style-1 h1 {text-decoration: none; text-transform: none;}.text-style-1 h2 {text-decoration: none; text-transform: none;}.text-style-1 h3 {text-decoration: none; text-transform: none;}.text-style-1.text-element > .silex-element-content {font-family: 'Roboto', sans-serif; font-style: normal; font-weight: bold; font-size: 16px; text-decoration: none; text-align: justify; text-transform: none; line-height: 3; word-spacing: 1px; columns: -6; column-rule-width: 9px; column-gap: 3px; column-rule-color: #80ff00; column-rule-style: solid;}.text-style-1 p {text-decoration: none; text-transform: none;}.text-style-1 a {text-decoration: none; text-transform: none;}.text-style-1 [data-silex-href] {text-decoration: none; text-transform: none;}.text-style-1 b {text-decoration: none; text-transform: none;}.text-style-1 i {text-decoration: none; text-transform: none;}.text-style-1 u {text-decoration: none; text-transform: none;}.text-style-1 ul li {text-decoration: none; text-transform: none;}.text-style-1 ol li {text-decoration: none; text-transform: none;}.text-style-1 .page-link-active {text-decoration: none; text-transform: none;}</style><style class="silex-prodotype-style" type="text/css" data-style-id="text-style-2">.text-style-2.text-element > .silex-element-content {column-gap: 3px;}</style><style class="silex-prodotype-style" type="text/css" data-style-id="text-style-3">.text-style-3.text-element > .silex-element-content {column-gap: 3px;}</style><meta name="description" content="3d printing service,cosplay props"><link href="../../../../dropbox/get/favicomn-1.png" rel="shortcut icon"><meta name="publicationPath" content="{&quot;name&quot;:&quot;gh-pages&quot;,&quot;folder&quot;:&quot;test-github&quot;,&quot;path&quot;:&quot;test-github/gh-pages&quot;,&quot;service&quot;:&quot;github&quot;,&quot;url&quot;:&quot;https://leafcorp.github.io/test-github/&quot;}"><meta name="websiteUrl" content="https://leaf-3d.com/"><!-- Silex HEAD tag do not remove --><!-- End of Silex HEAD tag do not remove --></head>
+
+<body data-silex-id="body-initial" class="body-initial all-style enable-mobile silex-runtime" data-silex-type="container"><div data-silex-type="container" class="prevent-draggable container-element editable-style silex-id-1564145506329-12 section-element" data-silex-id="silex-id-1564145506329-12"><div data-silex-type="container" class="editable-style silex-id-1564145506329-11 container-element silex-element-content silex-container-content website-width prevent-draggable" data-silex-id="silex-id-1564145506329-11"><div data-silex-type="text" class="editable-style silex-id-1564139226016-1 text-element silex-component silex-component-hamburger prevent-resizable text-style-1" data-silex-id="silex-id-1564139226016-1"><div class="silex-element-content normal"><style>.hamburger-menu_1564145066296_69 {position: absolute;}.silex-editor .hamburger-menu_1564145066296_69 nav {left: -9999px;}.hamburger-menu_1564145066296_69 nav ul {margin-top: 80px;}.hamburger-menu_1564145066296_69 nav {opacity: 0; position: absolute; background-color: #c0c0c0; transition: left 1s ease, height 0s ease 1s; left: -300px; width: 300px; height: 20px;}.hamburger-menu_1564145066296_69.open nav {opacity: 1; height: 100vh; left: 0; transition: left 1s ease, height 0s ease 0s;}.hamburger-menu_1564145066296_69 .nav-container {z-index: 10; position: absolute;}.hamburger-menu_1564145066296_69.open .nav-container {}.hamburger-menu_1564145066296_69 .hamburger-btn {z-index: 20; cursor: pointer; position: absolute;}.hamburger-menu_1564145066296_69 .hamburger-btn span {display: block; width: 30px; height: 5px; margin-bottom: 3px; position: relative; background-color: #000000; border: 1px solid #ffffff; border-radius: 3px; transition: border-color 0.1s ease-in,
+      opacity 0.1s ease-in,
+      transform 0.1s ease-in,
+      background 0.1s ease-in;}.hamburger-menu_1564145066296_69.open .hamburger-btn span {border-color: rgba(255, 255, 255, 0);}.hamburger-menu_1564145066296_69 .hamburger-btn span:first-child {transform-origin: 4px -2px;}.hamburger-menu_1564145066296_69.open .hamburger-btn span:first-child {transform: rotate(45deg) translate(7px, -4px);}.hamburger-menu_1564145066296_69.open .hamburger-btn span:nth-last-child(2) {opacity: 0;}.hamburger-menu_1564145066296_69 .hamburger-btn span:nth-child(3) {transform-origin: -11px 4px;}.hamburger-menu_1564145066296_69.open .hamburger-btn span:nth-child(3) {transform: rotate(-45deg) translate(0, 12px);}</style>
+<!-- inspired by https://codepen.io/erikterwan/pen/EVzeRP -->
+<div class="hamburger-menu_1564145066296_69 closed">
+    <div class="hamburger-btn fixed">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+    <div class="nav-container">
+      <div class="prevent-scale">
+        <nav role="navigation" class="">
+            <ul>
+            
+                <li><a href="#!page-contact" class="">CONTACT</a></li>
+            
+                <li><a href="#!page-home" class="">HOME</a></li>
+            
+                <li><a href="https://www.leafcorp.eu/index.html" title="LEAF-A">LEAF-A 3D PRINTER</a></li>
+            
+            </ul>
+        </nav>
+      </div>
+  </div>
+</div>
+<script type="text/javascript">
+(function() {
+  var isOpen = false;
+  function close() {
+    isOpen = false;
+    $('.hamburger-menu_1564145066296_69').removeClass('open');
+    $('.hamburger-menu_1564145066296_69').addClass('closed');
+  }
+  function open() {
+    isOpen = true;
+    $('.hamburger-menu_1564145066296_69').addClass('open');
+    $('.hamburger-menu_1564145066296_69').removeClass('closed');
+  }
+  function toggle() {
+    if(isOpen) close();
+    else open();
+  }
+  var silexElement = $('.hamburger-menu_1564145066296_69').closest('.editable-style');
+  function move(data) {
+    var offset = silexElement.offset();
+    $('.hamburger-menu_1564145066296_69 .nav-container').css({
+      'transform': 'translate(' + (data.scrollLeft - (offset.left/data.scale)) + 'px, ' + (data.scrollTop - (offset.top/data.scale)) + 'px)'
+    });
+  }
+  $('.hamburger-menu_1564145066296_69 .hamburger-btn').click(function() { toggle(); });
+  $(document).on('silex.scroll silex.resize', function(e, data) {
+    close();
+    move(data);
+  });
+  close();
+})();
+</script>
+</div></div><div data-silex-type="image" class="editable-style silex-id-1564139386575-5 image-element" data-silex-id="silex-id-1564139386575-5"><img src="../../../../dropbox/get/video%20kickstarter/ICO.png" class="silex-element-content"></div></div></div>
+    <div class="silex-pages">
+        
+
+        <a id="page-home" data-silex-type="page" class="page-element" href="#!page-home">Home</a><a id="page-contact" href="#!page-contact" data-silex-type="page" class="page-element">contact</a><a id="page-quotation" href="#!page-quotation" data-silex-type="page" class="page-element">quotation</a></div>
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-silex-type="container" class="editable-style silex-id-1564145483456-10 container-element page-home paged-element" data-silex-id="silex-id-1564145483456-10"></div><div data-silex-type="text" class="editable-style silex-id-1564145708211-13 text-element page-home paged-element" data-silex-id="silex-id-1564145708211-13"><div class="silex-element-content normal"><p>New text box</p></div></div><div data-silex-type="html" class="editable-style silex-id-1564148658551-0 html-element silex-component silex-component-form silex-use-height-not-minheight silex-element-content-full-height page-contact paged-element" data-silex-id="silex-id-1564148658551-0"><div class="silex-element-content"><form id="id_1564148943521_845" action="https://formspree.io/leaf3d@mail.com" method="POST">
+  
+  <div>
+    <label for="field1">Name</label>
+    <input type="text" required="" id="field1" name="field1" placeholder="Your name">
+  </div>
+  
+  
+  <div>
+    <label for="field2">Your email adress</label>
+    <input type="text" required="" id="field2" name="field2" placeholder="your@email.com">
+  </div>
+  
+  
+  <div class="fill-vertical">
+    <label for="field3">Your message</label>
+    <textarea required="" id="field3" name="field3" placeholder="Ask a question about the realization of a 3d model o upload a model a picture or just a sketch and we will contact you as soon as possible and let you know price and time of realization."></textarea>
+  </div>
+  
+  <input type="submit" value="SEND">
+</form>
+<style>#id_1564148943521_845 input[type=text], select {width: 100%; padding: 12px 20px; margin: 8px 0; display: inline-block; border: 1px solid #ccc; border-radius: 3px; box-sizing: border-box;}#id_1564148943521_845 input[type=submit] {width: 100%; background-color: #c0c0c0; color: #808080; padding: 14px 20px; margin: 8px 0; border: 1px solid #ffffff; border-radius: 3px; cursor: pointer;}#id_1564148943521_845 label {color: #000000;}#id_1564148943521_845 .fill-vertical {flex: 1 1 auto; display: flex; flex-direction: column;}#id_1564148943521_845 .fill-vertical textarea {flex: 1 1 auto; width: 100%; height: 150px; padding: 12px 20px; box-sizing: border-box; border: 2px solid #ccc; border-radius: 3px; background-color: #f8f8f8; font-size: 16px; resize: none;}#id_1564148943521_845 {border-radius: 3px; display: flex; flex-direction: column; justify-content: space-between; height: 100%;}</style>
+
+</div></div></body></html>
